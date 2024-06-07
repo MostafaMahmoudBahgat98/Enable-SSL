@@ -20,7 +20,7 @@ prerequisite:
                                                             $ sudo systemctl enable docker
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -Install SuperSet Using Docker Compose
-****Requirements****
+***Requirements***
 1-Clone Superset's GitHub repository
                                                             $ git clone --depth=1  https://github.com/apache/superset.git
                                                             
